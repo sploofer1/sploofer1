@@ -13,4 +13,4 @@
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=sploofer1&theme=github-compact&hide_border=true)
 
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=sploofer1&theme=darkhub&no-frame=true&row=1)
+![Snake](https://raw.githubusercontent.com/sploofer1/sploofer1/output/github-contribution-grid-snake-dark.svg)
