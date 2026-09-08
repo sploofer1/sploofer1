@@ -7,7 +7,5 @@
 
 ![Snake](https://raw.githubusercontent.com/sploofer1/sploofer1/output/github-contribution-grid-snake-dark.svg)
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=sploofer1&theme=github-compact&hide_border=true)
-
 
 
